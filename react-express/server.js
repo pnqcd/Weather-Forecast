@@ -35,7 +35,7 @@ app.get('/weather/:location', async (req, res) => {
 });
 
 const EMAIL_USER = 'ptqjava@gmail.com';
-const EMAIL_PASS = 'ptqjava123';
+const EMAIL_PASS = 'kwmw kpso hwhh adma';
 
 const transporter = nodemailer.createTransport({
     service: 'gmail',
